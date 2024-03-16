@@ -14,9 +14,3 @@ $ npm init
 
 <h2> Install dependencies </h2>
 
-```package.json
-"scripts": {
-    "dev": "nodemon server",
-    "start": "node server"
-  },
-```
