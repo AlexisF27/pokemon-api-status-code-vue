@@ -1,6 +1,7 @@
 <h1>Pokemon Api project status code</h1>
 
 <h2> User Stories</h2>
+
 1. [x] Install vue.js
 2. [ ] Add html base project
 
