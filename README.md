@@ -1,19 +1,17 @@
-# User Stories for API pokemon status code
+<h1>Pokemon Api project status code</h1>
 
+<h2> User Stories</h2>
 1. [x] Install vue.js
 2. [ ] Add html base project
 
-
-
-- Clone this project
+<h2> Clone this project </h2>
 - Then run:
   
 ```shell
 $ npm init
 ```
 
-
-- Replace "scripts" attribute so you can start nodemon with dev option
+<h2> Install dependencies </h2>
 
 ```package.json
 "scripts": {
