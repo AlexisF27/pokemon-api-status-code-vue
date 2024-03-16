@@ -4,7 +4,9 @@
 
 1. [x] Install vue.js
 2. [x] Install dependencies and run the project
-3. [ ] Add html base project
+3. [x] Create Nav
+4. [x] Add logo for the page
+5. [ ] Add html base project
 
 <h2> Clone this project </h2>
 - Then run:
