@@ -11,3 +11,13 @@
 ```shell
 $ npm init
 ```
+
+
+- Replace "scripts" attribute so you can start nodemon with dev option
+
+```package.json
+"scripts": {
+    "dev": "nodemon server",
+    "start": "node server"
+  },
+```
