@@ -1,6 +1,10 @@
 <template>
   <div id="parent">
-    <!-- Component content -->
+    <img
+      id="img-logo"
+      src="https://www.pikpng.com/pngl/b/450-4503442_transparent-background-album-on-surprised-pikachu-no-background.png"
+      alt="logo"
+    >
   </div>
 </template>
 
@@ -10,4 +14,7 @@ export default {
 }
 </script>
 
-<style src="./nav.css" lang="css"></style>
+<style
+  src="./nav.css"
+  lang="css"
+></style>

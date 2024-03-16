@@ -5,6 +5,7 @@ import Nav from './components/Nav/Nav.vue'
 
 <template>
   <div id="mother-div">
+    <Nav/>
     <HelloWorld msg="Vite + Vue" />
   </div>
 </template>

@@ -1,5 +1,12 @@
 #parent{
-  height: 30px;
+  height: 10.22vh;
   width: auto;
-  background-color: violet;
+  background: rgb(36,33,0);
+  background: linear-gradient(90deg, rgba(36,33,0,1) 13%, rgba(124,134,0,1) 46%, rgba(255,252,0,1) 87%);
+
+}
+
+#img-logo{
+  height: 150px;
+  width: 200px;
 }
