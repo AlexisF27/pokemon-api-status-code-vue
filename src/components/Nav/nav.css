@@ -1,6 +1,10 @@
 #parent{
-  height: 10.22vh;
+  height: 11vh;
+  width: 100%;
   width: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   background: rgb(36,33,0);
   background: linear-gradient(90deg, rgba(36,33,0,1) 13%, rgba(124,134,0,1) 46%, rgba(255,252,0,1) 87%);
 
@@ -8,5 +12,23 @@
 
 #img-logo{
   height: 150px;
+  width: 200px;
+}
+
+#catch-frase-logo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: -500px;
+  border-bottom: 5px solid white;
+
+}
+
+.catch-frase{
+  color: white;
+}
+
+#pokemon-logo{
+  height: 50px;
   width: 200px;
 }
