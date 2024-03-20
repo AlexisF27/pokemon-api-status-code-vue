@@ -1,12 +1,12 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import Nav from './components/Nav/Nav.vue'
+import Nav from './components/nav/Nav.vue'
+import Body from './components/body/Body.vue'
 </script>
 
 <template>
   <div id="mother-div">
     <Nav/>
-    <HelloWorld msg="Vite + Vue" />
+    <Body />
   </div>
 </template>
 
