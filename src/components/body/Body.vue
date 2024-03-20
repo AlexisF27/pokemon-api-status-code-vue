@@ -1,6 +1,20 @@
 <template>
   <div id="principal-body">
-    fews
+    <div class="columns">dq</div>
+    <div class="columns" id="big-column">
+      <div class="photos">
+        <img src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-go/f/f3/1.jpg?width=325" alt="bulbasaur">
+      </div>
+      <div class="photos">
+        <img src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-go/1/15/2.jpg?width=1920" alt="ivysaur">
+      </div>
+      <div class="photos">
+        <img src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-go/7/79/3.jpg?width=325" alt="venasaur  ">
+
+      </div>
+    </div>
+    <div class="columns">
+    </div>
   </div>
 </template>
 

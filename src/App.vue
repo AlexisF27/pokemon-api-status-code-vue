@@ -12,4 +12,3 @@ import Footer from './components/footer/Footer.vue';
   </div>
 </template>
 
-./components/Nav/HelloWorld.vue
