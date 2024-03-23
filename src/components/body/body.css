@@ -2,7 +2,6 @@
   display: flex;
   margin-top: 30px;
   justify-content: space-between;
-  background-color: wheat;
   height: 50rem;
 }
 
@@ -15,4 +14,13 @@
 #big-column{
   margin-left: -1200px;
   width: 10px;
+}
+
+#photos-contaitor{
+  display: flex;
+}
+
+.photos{
+  margin: 10px;
+  border: 5px solid black;
 }
