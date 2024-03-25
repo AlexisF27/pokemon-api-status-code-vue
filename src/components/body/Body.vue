@@ -1,10 +1,10 @@
 <template>
   <div id="principal-body">
-    <div class="columns">dq</div>
-    <div
-      class="columns"
-      id="big-column"
-    >
+
+      <!-- <div
+        class="columns"
+        id="big-column"
+      > -->
       <div id="photos-contaitor">
         <div class="photos">
           <img
@@ -29,7 +29,7 @@
     </div>
     <div class="columns">
     </div>
-  </div>
+  <!-- </div> -->
 </template>
 
 <script>
